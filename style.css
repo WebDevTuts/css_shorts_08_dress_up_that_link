@@ -42,3 +42,7 @@ header h1 {
 header a {
 	color: #fff;
 }
+
+header a.logo span {
+  display: none;
+}
